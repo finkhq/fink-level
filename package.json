@@ -1,0 +1,43 @@
+{
+  "name": "fink-level",
+  "description": "URL Shortener Engine 🐀",
+  "homepage": "https://github.com/finkhq/fink-level",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "author": {
+    "email": "",
+    "name": "fink",
+    "url": "https://github.com/finkhq"
+  },
+  "repository": "finkhq/fink-level",
+  "bugs": {
+    "url": "https://github.com/finkhq/fink-level/issues"
+  },
+  "keywords": ["fink", "level", "adapter"],
+  "dependencies": {
+    "async": "~1.5.2",
+    "json-future": "~1.1.2",
+    "level": "~1.4.0",
+    "level-mapped-index": "~0.5.3",
+    "level-sublevel": "~6.5.2"
+  },
+  "devDependencies": {
+    "git-dirty": "latest",
+    "level-mem": "latest",
+    "mocha": "latest",
+    "should": "latest",
+    "standard": "latest"
+  },
+  "engines": {
+    "node": "~5.0.0"
+  },
+  "scripts": {
+    "clean": "rm -rf node_modules",
+    "start": "NODE_PATH=./ node index.js",
+    "start-dev": "NODE_PATH=./ nodemon index.js",
+    "lint": "standard lib",
+    "pretest": "npm run lint",
+    "test": "NODE_PATH=./ sh test/test.sh"
+  },
+  "license": "MIT"
+}
