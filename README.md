@@ -4,6 +4,7 @@
   <br>
   <img src="https://avatars2.githubusercontent.com/u/16745034" alt="fink-level">
   <br>
+  <br>
 </p>
 
 ![Last version](https://img.shields.io/github/tag/finkhq/fink-level.svg?style=flat-square)
