@@ -13,13 +13,17 @@
   "bugs": {
     "url": "https://github.com/finkhq/fink-level/issues"
   },
-  "keywords": ["fink", "level", "adapter"],
+  "keywords": [
+    "fink",
+    "level",
+    "adapter"
+  ],
   "dependencies": {
     "async": "~1.5.2",
     "json-future": "~1.1.2",
     "level": "~1.4.0",
     "level-mapped-index": "~0.5.3",
-    "level-sublevel": "~6.5.2"
+    "level-sublevel": "~6.5.3"
   },
   "devDependencies": {
     "git-dirty": "latest",
