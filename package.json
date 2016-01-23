@@ -3,7 +3,7 @@
   "description": "URL Shortener Engine 🐀",
   "homepage": "https://github.com/finkhq/fink-level",
   "version": "0.1.0",
-  "main": "./index.js",
+  "main": "./lib/index.js",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
     "name": "Kiko Beats",
@@ -33,7 +33,7 @@
     "standard": "latest"
   },
   "engines": {
-    "node": "~5.0.0"
+    "node": ">= 4"
   },
   "scripts": {
     "clean": "rm -rf node_modules",
