@@ -29,11 +29,11 @@
     "level-sublevel": "~6.5.3"
   },
   "devDependencies": {
-    "git-dirty": "latest",
-    "level-mem": "latest",
-    "mocha": "latest",
-    "should": "latest",
-    "standard": "latest"
+    "git-dirty": "~1.0.0",
+    "level-mem": "~0.18.0",
+    "mocha": "~2.3.4",
+    "should": "~8.1.1",
+    "standard": "~5.4.1"
   },
   "engines": {
     "node": ">= 4"
