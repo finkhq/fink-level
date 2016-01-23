@@ -39,11 +39,9 @@
   },
   "scripts": {
     "clean": "rm -rf node_modules",
-    "start": "NODE_PATH=./ node index.js",
-    "start-dev": "NODE_PATH=./ nodemon index.js",
     "lint": "standard lib",
     "pretest": "npm run lint",
-    "test": "NODE_PATH=./ sh test/test.sh"
+    "test": "NODE_PATH=./ mocha"
   },
   "license": "MIT"
 }
