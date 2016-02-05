@@ -8,7 +8,7 @@ const schema = require('lib/schema')
 
 let globalInstance
 
-describe('URL', function () {
+describe('URI', function () {
   it('check if a "google.com" hash is register register', function (done) {
     URL.isRegister('nothing', function (err, isRegister, results) {
       isRegister.should.be.false()
