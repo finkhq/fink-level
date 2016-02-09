@@ -2,7 +2,7 @@
   "name": "fink-level",
   "description": "URL Shortener Engine 🐀",
   "homepage": "https://github.com/finkhq/fink-level",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./lib/index.js",
   "author": {
     "name": "Kiko Beats",

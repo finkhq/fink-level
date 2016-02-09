@@ -1,3 +1,11 @@
+<a name="1.0.2"></a>
+## 1.0.2 (2016-02-09)
+
+
+* update ([aef56f7](https://github.com/finkhq/fink-level/commit/aef56f7))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2016-02-09)
 
@@ -11,6 +19,7 @@
 * Merge pull request #2 from finkhq/greenkeeper-should-8.2.0 ([bf09187](https://github.com/finkhq/fink-level/commit/bf09187))
 * Merge pull request #3 from finkhq/greenkeeper-mocha-2.4.1 ([f97386d](https://github.com/finkhq/fink-level/commit/f97386d))
 * Merge pull request #4 from finkhq/greenkeeper-is-uri-1.1.0 ([941f782](https://github.com/finkhq/fink-level/commit/941f782))
+* Release 1.0.1 ([fffaa97](https://github.com/finkhq/fink-level/commit/fffaa97))
 * update ([869d7fe](https://github.com/finkhq/fink-level/commit/869d7fe))
 * Update bumped setting ([54456e3](https://github.com/finkhq/fink-level/commit/54456e3))
 * Update package.json ([68aa0f9](https://github.com/finkhq/fink-level/commit/68aa0f9))
