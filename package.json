@@ -2,21 +2,24 @@
   "name": "fink-level",
   "description": "URL Shortener Engine 🐀",
   "homepage": "https://github.com/finkhq/fink-level",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/index.js",
   "author": {
-    "email": "josefrancisco.verdu@gmail.com",
     "name": "Kiko Beats",
+    "email": "josefrancisco.verdu@gmail.com",
     "url": "https://github.com/Kikobeats"
   },
-  "repository": "finkhq/fink-level",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finkhq/fink-level.git"
+  },
   "bugs": {
     "url": "https://github.com/finkhq/fink-level/issues"
   },
   "keywords": [
     "fink",
-    "🐀",
-    "level"
+    "level",
+    "🐀"
   ],
   "dependencies": {
     "async": "~1.5.2",
