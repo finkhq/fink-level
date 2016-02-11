@@ -1,7 +1,17 @@
+<a name="1.1.0"></a>
+# 1.1.0 (2016-02-11)
+
+
+* deleted unnecessary dependency ([6a96562](https://github.com/finkhq/fink-level/commit/6a96562))
+* Inject config ([2710fa7](https://github.com/finkhq/fink-level/commit/2710fa7))
+
+
+
 <a name="1.0.2"></a>
 ## 1.0.2 (2016-02-09)
 
 
+* Release 1.0.2 ([a53cec0](https://github.com/finkhq/fink-level/commit/a53cec0))
 * update ([aef56f7](https://github.com/finkhq/fink-level/commit/aef56f7))
 
 
