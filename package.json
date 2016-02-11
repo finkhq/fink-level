@@ -45,7 +45,7 @@
     "clean": "rm -rf node_modules",
     "lint": "standard lib",
     "pretest": "npm run lint",
-    "test": "NODE_PATH=./ mocha"
+    "test": "NODE_PATH=./ mocha test/test.*.js"
   },
   "license": "MIT"
 }

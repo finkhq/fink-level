@@ -2,8 +2,10 @@
 
 'use strict'
 
-const should = require('should')
-const URL = require('lib/model')
+require('should')
+
+const config = require('./config')
+const URL = require('lib/model')(config)
 const schema = require('lib/schema')
 
 let globalInstance

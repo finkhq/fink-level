@@ -3,8 +3,8 @@
 'use strict'
 
 require('should')
-
-const db = require('lib/db')
+const config = require('./config')
+const db = require('lib/db')(config)
 
 describe('db', function () {
   it('get counter', function (done) {
