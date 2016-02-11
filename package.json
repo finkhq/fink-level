@@ -27,7 +27,6 @@
     "fink-shortener": "~1.0.0",
     "is-uri": "~1.2.0",
     "json-future": "~1.1.2",
-    "level": "~1.4.0",
     "level-mapped-index": "~0.5.3",
     "level-sublevel": "~6.5.3"
   },
