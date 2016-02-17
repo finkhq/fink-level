@@ -24,7 +24,7 @@
   "dependencies": {
     "async": "~1.5.2",
     "base64-emoji": "~2.1.0",
-    "fink-shortener": "~1.0.0",
+    "fink-shortener": "~1.1.0",
     "is-uri": "~1.2.0",
     "json-future": "~1.1.2",
     "level-mapped-index": "~0.5.3",
