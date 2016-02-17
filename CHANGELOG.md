@@ -1,9 +1,18 @@
+<a name="1.1.1"></a>
+## 1.1.1 (2016-02-17)
+
+
+* upgrade dep ([bf6033d](https://github.com/finkhq/fink-level/commit/bf6033d))
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2016-02-11)
 
 
 * deleted unnecessary dependency ([6a96562](https://github.com/finkhq/fink-level/commit/6a96562))
 * Inject config ([2710fa7](https://github.com/finkhq/fink-level/commit/2710fa7))
+* Release 1.1.0 ([8a35ab2](https://github.com/finkhq/fink-level/commit/8a35ab2))
 
 
 
