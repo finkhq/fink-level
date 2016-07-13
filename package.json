@@ -22,7 +22,7 @@
     "🐀"
   ],
   "dependencies": {
-    "async": "~1.5.2",
+    "async": "~2.0.0",
     "base64-emoji": "~2.1.0",
     "fink-shortener": "~1.1.0",
     "is-uri": "~1.2.0",
