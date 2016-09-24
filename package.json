@@ -28,7 +28,7 @@
     "is-uri": "~1.2.0",
     "json-future": "~1.1.2",
     "level-mapped-index": "~0.5.3",
-    "level-sublevel": "~6.5.3"
+    "level-sublevel": "~6.6.0"
   },
   "devDependencies": {
     "git-dirty": "latest",
